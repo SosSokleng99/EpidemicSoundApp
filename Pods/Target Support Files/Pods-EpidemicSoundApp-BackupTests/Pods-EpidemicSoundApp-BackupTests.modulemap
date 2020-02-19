@@ -1,0 +1,6 @@
+framework module Pods_EpidemicSoundApp_BackupTests {
+  umbrella header "Pods-EpidemicSoundApp-BackupTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

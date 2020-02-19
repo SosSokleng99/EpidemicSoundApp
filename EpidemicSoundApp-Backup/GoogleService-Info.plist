@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>61651540313-ik518t3tcc5o6ejoa34cfe39mg21r8e5.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.61651540313-ik518t3tcc5o6ejoa34cfe39mg21r8e5</string>
+	<key>API_KEY</key>
+	<string>AIzaSyC7PaIsL47P0zx16lUFZa5A6v3d2a11-jM</string>
+	<key>GCM_SENDER_ID</key>
+	<string>61651540313</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>sokleng.EpidemicSoundApp-Backup</string>
+	<key>PROJECT_ID</key>
+	<string>epidemicsound-backup-97705</string>
+	<key>STORAGE_BUCKET</key>
+	<string>epidemicsound-backup-97705.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:61651540313:ios:8e67147e24c167894c5448</string>
+	<key>DATABASE_URL</key>
+	<string>https://epidemicsound-backup-97705.firebaseio.com</string>
+</dict>
+</plist>
