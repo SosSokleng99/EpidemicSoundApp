@@ -2,9 +2,6 @@
 
 **iOS AudioPlayer Intergrated with Google Firebase.**
 This is an iOS Application that I have developed for learning purpose.
-
-<img src="https://firebasestorage.googleapis.com/v0/b/epidemic-sound-1b4d5.appspot.com/o/Github%2FScreen-Shot-2020-02-19-at-8.30.58-PM.jpg?alt=media&token=0728224d-ab75-40fb-ac49-ece9d9832024" height="600">
-
 It is the MusicPlayer Mobile Applicationthat was built by using various technology from Apple such as **UIKit Framework**, **AVFoundation Framework**(AVPlayer) and programming language **Swift 5.2** with support of backend technology of **Goolgle Firebase**(Firebase Firestore and Firebase Filestorage).
 
 ## Functionality
